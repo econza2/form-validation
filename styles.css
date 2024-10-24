@@ -1,0 +1,13 @@
+span {
+  color: red;
+}
+
+input:invalid {
+  border-style: solid;
+  border-color: red;
+}
+
+input:valid {
+  border-style: solid;
+  border-color: green;
+}
